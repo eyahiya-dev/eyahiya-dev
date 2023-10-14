@@ -1,15 +1,11 @@
-
-
 # Hey! It's great to see you.
 ![Js](https://svgshare.com/i/yXC.svg) ![php](https://svgshare.com/i/yYv.svg) ![docker](https://svgshare.com/i/yXr.svg) ![reactjs](https://svgshare.com/i/yXf.svg) ![vuejs](https://svgshare.com/i/yXq.svg) ![vite](https://svgshare.com/i/yYu.svg)    ![laravel](https://svgshare.com/i/yYQ.svg) ![markdown](https://svgshare.com/i/yXM.svg) ![html5](https://svgshare.com/i/yXp.svg) ![css3](https://svgshare.com/i/yYt.svg) ![bootstrap](https://svgshare.com/i/yXd.svg) ![talwind](https://svgshare.com/i/yY9.svg)  ![wordpress](https://svgshare.com/i/yXe.svg) ![mysql](https://svgshare.com/i/yYP.svg) ![netlify](https://svgshare.com/i/yZ4.svg)  ![cloudflare](https://svgshare.com/i/yXN.svg) 
 
 I wear two hats: Full Stack Laravel Developer and Psychologist. 💻 🧠
 ## About Me
-<div align="center">
-<a href="https://ibb.co/cvdXyJ2"><img src="https://i.ibb.co/vB8vc1L/Yahya-Mahmud252.jpg" alt="Yahya-Mahmud252" border="0"></a>
-</div>
+[![Let-s-Connect-1.jpg](https://i.postimg.cc/5t93RSZ8/Let-s-Connect-1.jpg)](https://postimg.cc/BjyH8HZv)
 
-As a full-stack Laravel Developer, I’m passionate about creating web applications that function flawlessly and provide exceptional user experiences. Laravel is my playground, and I love crafting robust and elegant solutions.  
+This is Yahya-Al-Mahmud. As a full-stack Laravel developer, I’m passionate about creating web applications that function flawlessly and provide exceptional user experiences. Laravel is my playground, and I love crafting robust and elegant solutions.
   
 On the other side of the coin, I’m a psychologist, dedicated to understanding the intricacies of the human mind and helping individuals achieve their mental well-being.
 
@@ -68,7 +64,7 @@ My fascination with human behavior doesn't stop with code. I'm deeply committed 
 
 In my free time, I enjoy playing football with my team😁.
 
-Thank you for viewing my profile; don't hesitate to get in touch with me if you want to discuss projects, psychology, or anything else. I am excited to interact with you!
+Thank you for viewing my profile. Don't hesitate to get in touch with me if you want to discuss projects, psychology, or anything else. I am excited to interact with you!
 
 
 ### Profile Viewer 
