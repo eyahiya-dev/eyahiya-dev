@@ -34,7 +34,7 @@ My fascination with human behavior doesn't stop with code. I'm deeply committed 
 <h2 align="center">The Workflow Diagram of Development</h2>
 <a href="https://ibb.co/G3ZthYc"><img width="1170em" src="https://i.ibb.co/cXWCmfD/crop-0-0-1170-390-0-about-cover.jpg" alt="crop-0-0-1170-390-0-about-cover" border="0"></a>
 </div>
-<div>
+<div align="center">
 <h2 align="center">Statistics of GitHub</h2><p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyahiya-dev&show_icons=true&locale=en&theme=buefy" alt="eyahiya-dev" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyahiya-dev&hide_progress=true&theme=buefy" alt=eyahiya-dev />
