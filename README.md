@@ -1,9 +1,13 @@
+
+
 # Hey! It's great to see you.
 ![Js](https://svgshare.com/i/yXC.svg) ![php](https://svgshare.com/i/yYv.svg) ![docker](https://svgshare.com/i/yXr.svg) ![reactjs](https://svgshare.com/i/yXf.svg) ![vuejs](https://svgshare.com/i/yXq.svg) ![vite](https://svgshare.com/i/yYu.svg)    ![laravel](https://svgshare.com/i/yYQ.svg) ![markdown](https://svgshare.com/i/yXM.svg) ![html5](https://svgshare.com/i/yXp.svg) ![css3](https://svgshare.com/i/yYt.svg) ![bootstrap](https://svgshare.com/i/yXd.svg) ![talwind](https://svgshare.com/i/yY9.svg)  ![wordpress](https://svgshare.com/i/yXe.svg) ![mysql](https://svgshare.com/i/yYP.svg) ![netlify](https://svgshare.com/i/yZ4.svg)  ![cloudflare](https://svgshare.com/i/yXN.svg) 
 
 I wear two hats: Full Stack Laravel Developer and Psychologist. 💻 🧠
 ## About Me
-![Cover Photo](https://i.ibb.co/vB8vc1L/Yahya-Mahmud252.jpg)
+<div align="center">
+<a href="https://ibb.co/cvdXyJ2"><img src="https://i.ibb.co/vB8vc1L/Yahya-Mahmud252.jpg" alt="Yahya-Mahmud252" border="0"></a>
+</div>
 
 As a full-stack Laravel Developer, I’m passionate about creating web applications that function flawlessly and provide exceptional user experiences. Laravel is my playground, and I love crafting robust and elegant solutions.  
   
@@ -40,9 +44,9 @@ My fascination with human behavior doesn't stop with code. I'm deeply committed 
 </div>
 <div align="center">
 <h2 align="center">Stats & Commits Graph</h2>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyahiya-dev&theme=slateorange" height="220em" />  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eyahiya-dev&theme=buefy" height="220em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eyahiya-dev&theme=solarized" height="220em" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyahiya-dev&theme=slateorange" height="100%"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eyahiya-dev&theme=buefy" height="50%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eyahiya-dev&theme=solarized" height="50%" />  
 </div>
 <div align="center">
 <h2 align="center">Contribution Graph</h2><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eyahiya-dev&theme=tokyo-day"/>
@@ -56,6 +60,8 @@ My fascination with human behavior doesn't stop with code. I'm deeply committed 
 <a href="mailto:eyahiya.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
 
 </div>
+
+
 
 
 ## Fun Fact 🌟
