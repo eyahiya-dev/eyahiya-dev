@@ -52,12 +52,10 @@ My fascination with human behavior doesn't stop with code. I'm deeply committed 
 ##  Let's Connect 🤝
 <div> <a href="https://www.linkedin.com/in/eyahiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://github.com/eyahiya-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-<a href="https://www.facebook.com/mdeyahiya19" target="_blank"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>  
+<a href="https://www.facebook.com/mdeyahiya99" target="_blank"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>  
 <a href="mailto:eyahiya.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
 
 </div>
-
-
 
 
 ## Fun Fact 🌟
